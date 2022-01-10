@@ -35,7 +35,7 @@ class UserAdapter(val context: Context, val UserList: ArrayList<User> ): BaseAda
         profile.setImageResource(user.profile)
         name.text = user.name
         age.text = user.age
-        age.text = user.greet
+        greet.text = user.greet
 
         return view
     }

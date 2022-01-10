@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
         listView.onItemClickListener = AdapterView.OnItemClickListener{ parent, view, position, id->
             val selectItem = parent.getItemAtPosition(position) as User
             Toast.makeText(this,selectItem.name, Toast.LENGTH_SHORT).show()
-            
+
         }
 
 
