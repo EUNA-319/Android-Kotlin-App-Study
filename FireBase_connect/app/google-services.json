@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74366936059",
+    "project_id": "fir-connect-fa103",
+    "storage_bucket": "fir-connect-fa103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74366936059:android:e7ad3fa9ee23131829a15e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74366936059-mtbgpad83m42s2quqk2bkpsasinc8jiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK73kkvb42kr0fFK6p42FTI7glSLFW5as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74366936059-mtbgpad83m42s2quqk2bkpsasinc8jiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
