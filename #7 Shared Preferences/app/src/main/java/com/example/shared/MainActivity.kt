@@ -35,7 +35,9 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
-// Shared preferences
-// 일반적인 텍스트 값을 잠깐 저장을 했을 때 or push 알림 on/off 할 때 사용
-// 데이터베이스 DB로 사용하기는 힘듦
-// 앱에 저장된 정보가 삭제되어도 상관없을 때 사용
+/*
+ Shared preferences
+ - 일반적인 텍스트 값을 잠깐 저장을 했을 때 or push 알림 on/off 할 때 사용
+ - 데이터베이스 DB로 사용하기는 힘듦
+ - 앱에 저장된 정보가 삭제되어도 상관없을 때 사용
+ */
