@@ -1,7 +1,7 @@
 package com.example.firebase_connect
 
 /**
- * 사용자 꼐정 정보 모델 클래스
+ * 사용자 계정 정보 모델 클래스
   **/
 
 class UserAccount {
