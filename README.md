@@ -11,8 +11,6 @@ cotato 1기 스터디 - Kotlin study
 
 ▶스터디 목표
 
-- Instagram Clone App 제작
-
 - Kotlin을 이용해 Android App 개발을 할 수 있다는 자신감을 얻는 것!
 
 
@@ -37,15 +35,7 @@ cotato 1기 스터디 - Kotlin study
 
 3주차(~1.25) 10, 11, 12
 
-Coding Cafe
-
-4주차(~2.1) 1, 2, 3, 4, 5
-
-5주차(~2.8) 6, 7, 8, 9, 10
-
-6주차(~2.15) 11, 12, 13, 14
-
-7주차(~2.22) 15, 16
+4주차 ~ 7주차  instagram clone coding
 
 
 ▶강의 링크
@@ -54,6 +44,3 @@ Coding Cafe
 
 https://www.youtube.com/playlist?list=PLC51MBz7PMywN2GJ53aF0UO5fnHGjW35a
 
-Coding Cafe, "Android Instagram App with Firebase - Kotlin"
-
-https://www.youtube.com/playlist?list=PLxefhmF0pcPnPuhlBPBq_FdG2GXpgrhVJ
